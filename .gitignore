@@ -1,0 +1,4 @@
+ilbm2frames
+*.code-workspace
+test/
+.vscode
